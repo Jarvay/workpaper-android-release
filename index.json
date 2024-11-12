@@ -1,8 +1,8 @@
 {
   "latestVersion": {
-    "versionCode": 14,
-    "versionName": "2.0.0",
-    "versionDesc": "动态壁纸模式支持mov/mp4格式的视频",
-    "apkUrl": "https://ghp.ci/https://github.com/Jarvay/workpaper-android/releases/download/v2.0.0/workpaper-v2.0.0.apk"
+    "versionCode": 15,
+    "versionName": "2.1.0",
+    "versionDesc": "调整部分滤镜项数值范围",
+    "apkUrl": "https://ghp.ci/https://github.com/Jarvay/workpaper-android/releases/download/v2.1.0/workpaper-v2.1.0.apk"
   }
 }
