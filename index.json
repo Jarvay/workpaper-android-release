@@ -1,8 +1,8 @@
 {
   "latestVersion": {
-    "versionCode": 16,
-    "versionName": "2.2.0",
-    "versionDesc": "设置页可以设置动态壁纸模式下双击壁纸的操作，如打开微信或微信扫一扫等",
-    "apkUrl": "https://ghp.ci/https://github.com/Jarvay/workpaper-android/releases/download/v2.2.0/workpaper-v2.2.0.apk"
+    "versionCode": 17,
+    "versionName": "2.4.1",
+    "versionDesc": "支持熄屏后重置视频进度，开关在设置页",
+    "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.4.1/workpaper-v2.4.1.apk"
   }
 }
