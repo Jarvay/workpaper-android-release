@@ -1,8 +1,8 @@
 {
   "latestVersion": {
-    "versionCode": 17,
-    "versionName": "2.4.1",
-    "versionDesc": "支持熄屏后重置视频进度，开关在设置页",
-    "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.4.1/workpaper-v2.4.1.apk"
+    "versionCode": 19,
+    "versionName": "2.5.0-beta",
+    "versionDesc": "测试版，支持壁纸滚动，可以在设置页面打开。（部分启动器不支持，如澎湃2的默认启动器）",
+    "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.5.0-beta/workpaper-v2.5.0-beta.apk"
   }
 }
