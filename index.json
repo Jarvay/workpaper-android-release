@@ -1,8 +1,8 @@
 {
   "latestVersion": {
-    "versionCode": 19,
-    "versionName": "2.5.0-beta",
-    "versionDesc": "测试版，支持壁纸滚动，可以在设置页面打开。（部分启动器不支持，如澎湃2的默认启动器）",
-    "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.5.0-beta/workpaper-v2.5.0-beta.apk"
+    "versionCode": 22,
+    "versionName": "2.6.1-beta",
+    "versionDesc": "相册支持关联文件夹，只有空相册可以关联，关联后点击右下角按钮可以刷新相册",
+    "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.6.1-beta/workpaper-v2.6.1-beta.apk"
   }
 }
