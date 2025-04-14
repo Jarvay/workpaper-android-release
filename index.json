@@ -1,8 +1,8 @@
 {
   "latestVersion": {
-    "versionCode": 22,
-    "versionName": "2.6.1-beta",
-    "versionDesc": "相册支持关联文件夹，只有空相册可以关联，关联后点击右下角按钮可以刷新相册",
-    "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.6.1-beta/workpaper-v2.6.1-beta.apk"
+    "versionCode": 23,
+    "versionName": "2.6.2",
+    "versionDesc": "修复添加相册后闪退的问题",
+    "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.6.2/workpaper-v2.6.2.apk"
   }
 }
