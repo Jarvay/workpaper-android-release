@@ -1,8 +1,8 @@
 {
   "latestVersion": {
-    "versionCode": 23,
-    "versionName": "2.6.2",
-    "versionDesc": "修复添加相册后闪退的问题",
-    "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.6.2/workpaper-v2.6.2.apk"
+    "versionCode": 24,
+    "versionName": "2.7.0",
+    "versionDesc": "1.增加图片过渡动画开关，默认关闭\n2.支持设置仓库镜像，用于更新\n3.更新弹窗显示更新日志",
+    "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.7.0/workpaper-v2.7.0.apk"
   }
 }
