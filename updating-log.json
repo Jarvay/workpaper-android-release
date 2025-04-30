@@ -1,5 +1,11 @@
 [
     {
+        "versionName": "2.7.0",
+        "versionCode": 24,
+        "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.6.2/workpaper-v2.6.2.apk",
+        "desc": "1.增加图片过渡动画开关，默认关闭\n2.支持设置仓库镜像，用于更新\n3.更新弹窗显示更新日志"
+    },
+    {
         "versionName": "2.6.2",
         "versionCode": 23,
         "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.6.2/workpaper-v2.6.2.apk",
