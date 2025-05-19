@@ -1,5 +1,11 @@
 [
     {
+        "versionName": "2.8.0",
+        "versionCode": 25,
+        "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.8.0/workpaper-v2.8.0.apk",
+        "desc": "1.新增支持通知栏快捷开关\n2.相册支持直接清空\n3.一些优化"
+    },
+    {
         "versionName": "2.7.0",
         "versionCode": 24,
         "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.7.0/workpaper-v2.7.0.apk",
