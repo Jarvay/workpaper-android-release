@@ -1,5 +1,11 @@
 [
     {
+        "versionName": "2.8.1",
+        "versionCode": 26,
+        "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.8.1/workpaper-v2.8.1.apk",
+        "desc": "修复切换强制生效计划时开关按钮异常的问题"
+    },
+    {
         "versionName": "2.8.0",
         "versionCode": 25,
         "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.8.0/workpaper-v2.8.0.apk",
