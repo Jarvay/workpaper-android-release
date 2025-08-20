@@ -1,5 +1,11 @@
 [
     {
+        "versionName": "2.9.0",
+        "versionCode": 28,
+        "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.9.0/workpaper-v2.9.0.apk",
+        "desc": "壁纸滚动和过渡效果从Bitmap实现改为在OpenGL ES实现"
+    },
+    {
         "versionName": "2.8.2",
         "versionCode": 27,
         "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.8.2/workpaper-v2.8.2.apk",
