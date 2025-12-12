@@ -1,5 +1,11 @@
 [
     {
+        "versionName": "2.10.0",
+        "versionCode": 29,
+        "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.10.0/workpaper-v2.10.0.apk",
+        "desc": "长按计划：新增【立即生效】，只改变当前计划，不影响下一个计划"
+    },
+    {
         "versionName": "2.9.0",
         "versionCode": 28,
         "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.9.0/workpaper-v2.9.0.apk",
