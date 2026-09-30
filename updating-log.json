@@ -1,5 +1,11 @@
 [
     {
+        "versionName": "3.0.0-beta",
+        "versionCode": 31,
+        "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v3.0.0-beta/workpaper-v3.0.0-beta.apk",
+        "desc": "1.界面换成了Miuix\n2.支持从网络下载图片"
+    },
+    {
         "versionName": "2.10.0",
         "versionCode": 29,
         "apkUrl": "https://ghfast.top/https://github.com/Jarvay/workpaper-android/releases/download/v2.10.0/workpaper-v2.10.0.apk",
